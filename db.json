@@ -1,8 +1,14 @@
-{"dudes" : [
-	{"id": 1, "name": "Dan", "age": 58, "kids" : true},
-	{"id": 2, "name": "Dave","age": 42, "kids" : true},
-	{"id": 3, "name": "Mitch", "age": 58, "kids" : false},
-	{"id": 4, "name": "John", "age": 25, "kids" : false},
-	{"id": 5, "name": "Joe", "age": 57, "kids" : true}
-	]
+{
+	"dudes" : [
+		{"id": 1, "name": "Dan", "age": 58, "kids" : true, "score", 75},
+		{"id": 2, "name": "Dave","age": 42, "kids" : true,  "score", 85},
+		{"id": 3, "name": "Mitch", "age": 58, "kids" : false,  "score", 45},
+		{"id": 4, "name": "John", "age": 25, "kids" : false, "score", 95},
+		{"id": 5, "name": "Joe", "age": 57, "kids" : true, "score", 70}
+	], 
+    "plants" : [
+		{"id": "cactus", "age": 2, "location": "Living Room"},
+		{"id": "ficas", "age": 4, "location": "Living Room"}, 
+		{"id": "succulent", "age": 6, "location": "Bath Room"}
+    ]
 }
