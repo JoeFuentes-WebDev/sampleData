@@ -1,6 +1,5 @@
-{"dudes"" : 
-[
-{"name": "Dan", "age": 58, "kids" : true}
+{"dudes" : [
+	{"name": "Dan", "age": 58, "kids" : true}
 {"name": "Dave","age": 42, "kids" : true}
 {"name": "Mitch", "age": 58, "kids" : false}
 {"name": "John", "age": 25, "kids" : false}
