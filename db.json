@@ -1,10 +1,10 @@
 {
 	"dudes" : [
-		{"id": 1, "name": "Dan", "age": 58, "kids" : this.hasChildren(), "hasChildren": function() {return this.children.length}, "score": 75, "children" : [{"name": "rowan", "age" : 8}]},
-		{"id": 2, "name": "Dave","age": 42, "kids" : this.hasChildren(), "hasChildren": function() {return this.children.length},  "score": 85, "children" : [{"name": "dave", "age" : 2}]},
-		{"id": 3, "name": "Mitch", "age": 58, "kids" : this.hasChildren(), "hasChildren": function() {return this.children.length}, "score": 45, "children" : []},
-		{"id": 4, "name": "Jayson", "age": 47, "kids" : this.hasChildren(), "hasChildren": function() {return this.children.length}, "score": 95, "children" : [{"name": "chloe", "age" : 8}, {"name": "elliot", "age" : 8}]},
-		{"id": 5, "name": "Joe", "age": 57, "kids" : this.hasChildren(), "hasChildren": function() {return this.children.length}, "score": 70, "children" : [{"name": "Adry", "age" : 7}, {"name": "Tripp", "age" : 20}]}
+		{"id": 1, "name": "Dan", "age": 58, "score": 75, "children" : [{"name": "rowan", "age" : 8}]},
+		{"id": 2, "name": "Dave","age": 42, "score": 85, "children" : [{"name": "dave", "age" : 2}]},
+		{"id": 3, "name": "Mitch", "age": 58, "score": 45, "children" : []},
+		{"id": 4, "name": "Jayson", "age": 47, "score": 95, "children" : [{"name": "chloe", "age" : 8}, {"name": "elliot", "age" : 8}]},
+		{"id": 5, "name": "Joe", "age": 57, "score": 70, "children" : [{"name": "Adry", "age" : 7}, {"name": "Tripp", "age" : 20}]}
 	], 
     "plants" : [
 		{"id": "cactus", "age": 2, "location": "Living Room"},
