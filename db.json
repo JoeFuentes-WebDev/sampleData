@@ -1,10 +1,10 @@
 {
 	"dudes" : [
-		{"id": 1, "name": "Dan", "age": 58, "kids" : true, "score": 75},
-		{"id": 2, "name": "Dave","age": 42, "kids" : true,  "score": 85},
-		{"id": 3, "name": "Mitch", "age": 58, "kids" : false,  "score": 45},
-		{"id": 4, "name": "John", "age": 25, "kids" : false, "score": 95},
-		{"id": 5, "name": "Joe", "age": 57, "kids" : true, "score": 70}
+		{"id": 1, "name": "Dan", "age": 58, "kids" : true, "score": 75, "children" : [{"name": "rowan", "age" : 8}]},
+		{"id": 2, "name": "Dave","age": 42, "kids" : true,  "score": 85, "children" : [{"name": "dave", "age" : 2}]},
+		{"id": 3, "name": "Mitch", "age": 58, "kids" : false,  "score": 45, "children" : []},
+		{"id": 4, "name": "Jayson", "age": 47, "kids" : true, "score": 95, "children" : [{"name": "chloe", "age" : 8}, {"name": "elliot", "age" : 8}]},
+		{"id": 5, "name": "Joe", "age": 57, "kids" : true, "score": 70, "children" : [{"name": "Adry", "age" : 7}, {"name": "Tripp", "age" : 20}]}
 	], 
     "plants" : [
 		{"id": "cactus", "age": 2, "location": "Living Room"},
