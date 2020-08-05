@@ -1,0 +1,7 @@
+
+
+http://my-json-server.typicode.com/JoeFuentes-WebDev/sampleData/dudes
+http://my-json-server.typicode.com/JoeFuentes-WebDev/sampleData/dudes/1
+
+http://my-json-server.typicode.com/JoeFuentes-WebDev/sampleData/plants
+
